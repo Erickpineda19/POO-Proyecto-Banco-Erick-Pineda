@@ -1,4 +1,5 @@
 Erick Josue Pineda Rodriguez- 20262001272
+
 Instrucciones de ejecución
 
 Abrir el proyecto en NetBeans.
