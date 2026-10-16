@@ -6,7 +6,7 @@ Instrucciones de ejecución
 
 2)Buscar el archivo Main.java.
 
-3)Ejecutar el archivo con clic derecho → Run File.
+3)Ejecutar el archivo con clic derecho en Run File.
 
 4)Ver los resultados en la ventana Output.
 
